@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prakashjsharma
 - 👀 I’m interested in .NET
 - 🌱 I’m currently learning .NET Core
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently looking for job in .net
 - 📫 How to reach me - Linkedin : https://www.linkedin.com/in/prakash-sharma-4a49121a0/
                         Twitter : https://twitter.com/Prakash45392485
                         Instagram : https://www.instagram.com/specsy_1811/
